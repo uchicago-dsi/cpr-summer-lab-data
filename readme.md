@@ -67,3 +67,4 @@ The DSI OSL recently created a new webtool that CPR and its partners can use to 
 | pct_nh_other                                            | Percentage of individuals who are non-Hispanic other race alone                                 |
 | pct_nh_two_or_more                                      | Percentage of individuals who are non-Hispanic two or more races                                |
 | pct_hispanic_or_latino                                  | Percentage of individuals who are Hispanic or Latino                                            |
+Grace Simunek
