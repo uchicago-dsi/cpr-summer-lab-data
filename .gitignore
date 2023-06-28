@@ -1,3 +1,4 @@
 .DS_Store
 *.gpkg-*
 !*.gpkg
+Population_Workspace.ipynb
