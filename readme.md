@@ -67,4 +67,7 @@ The DSI OSL recently created a new webtool that CPR and its partners can use to 
 | pct_nh_other                                            | Percentage of individuals who are non-Hispanic other race alone                                 |
 | pct_nh_two_or_more                                      | Percentage of individuals who are non-Hispanic two or more races                                |
 | pct_hispanic_or_latino                                  | Percentage of individuals who are Hispanic or Latino                                            |
-Grace Simunek
+
+# File structure
+- - -
+Completed notebooks are currently in: Workbooks. Any files that were created and frequently used are documented in the File Creation notebook. All other notebooks are labels according to their contents. ProjDataExtract is residual work done with parquet files, it is less documented, but could be useful for future work. data_cleaning_files were files used to clean the data prior to the 2023 DSI CAN project. 
